@@ -1,23 +1,9 @@
-## <Name> Repository
+# Hello there 👋
 
-This repository contains the code, resources & artifacts for <repo or project name> at Sinar Project. 
-<Add any supporting information here>
+Welcome to the Sinar Project .github public repository 🌈    
 
-### About
-This is a Github repository template for Sinar, with this sample README with its section as a general structure/framework for new repository.
-
-As this repository is a template repository, a new repository can use this repository to get issue & PR template features.
-Otherwise, [.github folder](.github/) can be copied and added/committed into existing repo folder to enable issue & PR template features.
-<Please update and delete the 3 lines above this including this line, when customising for your new repository>
-
-The code in the script does:
-- <step 1>
-- <step 2>
-
-### Key Features
--
--
+* 🧐   this is the .github README
+* 🌈   the README for org is in [profile/README.md](profile/README.md) & not this repo README
 
 ## Usage / Howto
-- <instruction> The [.github folder](.github/) can be copied and added/committed into existing repo folder to enable issue & PR template features.
-- <sample commands here where relevant>
+- Update the profile/README.md to update the organisation README visible at [https://github.com/Sinar](https://github.com/Sinar)
