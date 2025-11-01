@@ -14,7 +14,7 @@ A guide for getting started with Sinar Project
 
 ### 3. Review existing repositories below & join the Community on Mattermost
 - Get the [signup link for Sinar Project Kopitiam's Mattermost platform from the website's - Get Involved page](https://sinarproject.org/get-involved) 
-- Mattermost is also known as [Sinar Project Kopitiam](https://kopitiam.sinarproject.org/) and the default channel is ~kopitiam. Discussions related to codes are in ~dev-talk channel
+- Mattermost is also known as [Sinar Project Kopitiam](https://kopitiam.sinarproject.org/) and the default channel is ~kopitiam. Discussions related to codes are in ~dev-talk channel & Open Data in ~open-data
 
 <!--
 🙋‍♀️ A short introduction - Sinar Project is a civic tech initiative using open technology, open data and policy analysis to systematically make important information public and more accessible to the Malaysian people. It aims to improve governance and encourage greater citizen involvement in the public affairs of the nation by making Parliament and Malaysian Government more open, transparent and accountable.
