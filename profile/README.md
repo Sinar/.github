@@ -1,4 +1,3 @@
-<details>
 <summary><b>Getting Started</b></summary>
 
 ### 1. Repository access on Sinar Project GitHub
@@ -18,8 +17,6 @@
 ### 4. New to Python? Start here
 - [From Web to Data - A contributor's guide to open source Python](https://docs.google.com/presentation/d/1opU1dT9zAy8j6xQ5mt7LGdH72tkUcmbbD1vlViE2IpA/edit?slide=id.g89d9d5ffe4_0_77#slide=id.g89d9d5ffe4_0_77) — workshop slides to help you start contributing to Sinar's Python ecosystem
 
-</details>
-
 ## Want the full picture?
 
 - [→ ECOSYSTEMS.md](./ECOSYSTEMS.md) — Comprehensive Go and Python ecosystem listings
@@ -28,7 +25,7 @@
 Join us on [Mattermost / Kopitiam](https://kopitiam.sinarproject.org/sinar-project/channels/town-square)
 Browse [good first issues](https://github.com/search?q=org%3ASinar+label%3A%22good+first+issue%22&type=Issues)
 
----
+<details>
 
 ## Legend
 
@@ -120,6 +117,7 @@ _Sinar forks and adaptations of mySociety tools_
 - [popit_ng](https://github.com/Sinar/popit_ng) ⭐ `[Python] [Django]` — Representatives database (Popolo standard)
 - [popit_relationship](https://github.com/Sinar/popit_relationship) ⭐ `[Python]` — Graph-based representative relationship analysis
 - [legisdata](https://github.com/Sinar/legisdata) `[Python] [Django]` — Parliamentary data with SayIt frontend
+</details>
 
 ---
 
