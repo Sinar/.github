@@ -30,7 +30,7 @@ Comprehensive catalog of all public, non-archived Go and Python repositories in 
 
 ## Python Ecosystem
 
-47 public, non-archived Python repos. Split into three sub-ecosystems: Plone CMS, Django Apps, and Other Tools.
+47 public, non-archived Python repos. Split into three sub-ecosystems: Plone CMS, Django Apps, and Other Tools. New to Python contributing? Check out [From Web to Data — A contributor's guide to open source Python](https://docs.google.com/presentation/d/1opU1dT9zAy8j6xQ5mt7LGdH72tkUcmbbD1vlViE2IpA/edit?slide=id.g89d9d5ffe4_0_77#slide=id.g89d9d5ffe4_0_77).
 
 ### Plone CMS
 
